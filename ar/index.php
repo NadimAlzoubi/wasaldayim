@@ -283,11 +283,11 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
             <div class="mobile-menu__menu">
                 <!-- Nav menu Start -->
                 <ul class="nav-menu cursor-small d-lg-flex align-items-center nav-menu--mobile d-block tw-mt-8">
-                    <li class="nav-menu__item has-submenu position-relative">
+                    <li class="nav-menu__item">
                         <a href="#services" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4"><?php echo $our_services ?></a>
                     </li>
                     <li class="nav-menu__item">
-                        <a href="#about" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100"><?php echo $about_us_text ?></a>
+                        <a href="#about" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100"><?php echo $who_we_are ?></a>
                     </li>
                     <li class="nav-menu__item">
                         <a href="#contact" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100"><?php echo $contact_us_text ?></a>
@@ -606,7 +606,7 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
         <div class="container">
             <!-- Google Map Embed -->
             <div class="text-center">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d26092.20492276086!2d51.63504702566479!3d24.12138872419733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjTCsDA3JzMxLjkiTiA1McKwMzcnNDIuNyJF!5e0!3m2!1sar!2s!4v1767299059170!5m2!1sar!2s" style="border:0;" width="80%" height="500px" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3641.3285454278903!2d51.63165448501151!3d24.125097484406066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e43c10f38891c5d%3A0x59ee2aec2a6af1ea!2z2LTYp9ix2Lkg2KfZhNit2LjZiti4IC0g2KfZhNi62YjZitmB2KfYqiAtINij2KjZiCDYuNio2YogLSDYp9mE2KXZhdin2LHYp9iqINin2YTYudix2KjZitipINin2YTZhdiq2K3Yr9ip!5e0!3m2!1sar!2sus!4v1767460964221!5m2!1sar!2sus" width="80%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
 

@@ -57,7 +57,6 @@
             "whatsapp_text": "WhatsApp",
             "phone_text": "Phone Call",
             "home": "Home"
-
         }
     },
     "meta": {
@@ -216,19 +215,25 @@
         "instagram": "https://www.instagram.com/wasaldayim",
         "youtube": "https://www.youtube.com/wasaldayim",
         "tiktok": "https://www.tiktok.com/@wasaldayim",
-        "whatsapp": "https://wa.me/971501234567",
+        "whatsapp": "https://wa.me/+971502573020",
         "telegram": "https://t.me/wasaldayim",
-        "email": "info@wasaldayim.com",
-        "phone": "+971501234567"
+        "email": "contact@wasaldayim.com",
+        "phone": "+971502573020"
     },
+
+
+
+
+
+
     "address": {
-        "ar": "الغويفات، أبوظبي، الإمارات العربية المتحدة",
-        "en": "Ghuwaifat, Abu Dhabi, UAE"
+        "ar": "شارع الحظيظ، الغويفات، أبوظبي، الإمارات العربية المتحدة",
+        "en": "Al-Haziz Street, Ghuwaifat, Abu Dhabi, UAE"
     },
-    "map_link": "https://goo.gl/maps/wasaldayim",
+    "map_link": "https://maps.app.goo.gl/pVKKobEHKpc2Xfbu5",
     "working_hours": {
-        "ar": "السبت - الخميس: 9 صباحاً - 6 مساءً",
-        "en": "Saturday - Thursday: 9 AM - 6 PM"
+        "ar": "مفتوح على مدار 24 ساعة",
+        "en": "Open 24 hours"
     },
     "footer_text": {
         "ar": "© 2026 وصال دائم لخدمات التخليص الجمركي. جميع الحقوق محفوظة",
