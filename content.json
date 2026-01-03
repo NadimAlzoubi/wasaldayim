@@ -1,0 +1,285 @@
+{
+    "static": {
+        "ar": {
+            "view_services": "عرض الخدمات",
+            "who_we_are": "من نحن؟",
+            "contact_with_us_on": "تواصل معنا على",
+            "follow_us": "تابعنا على",
+            "our_location_on_the_map": "موقعنا على الخريطة",
+            "our_services": "خدماتنا",
+            "learn_more": "اعرف المزيد",
+            "borders_we_serve": "المنافذ التي نخدمها",
+            "why_us": "لماذا نحن؟",
+            "our_mission": "هدفنا",
+            "our_vision": "رؤيتنا",
+            "our_value": "قيمنا",
+            "active_border_points": "2+",
+            "shipments_cleared": "1,200+",
+            "years_of_experience": "8+",
+            "client_satisfaction": "98%",
+            "active_border_points_text": "نقاط حدودية نشطة",
+            "shipments_cleared_text": "الشحنات المُخَلّصة شهرياً",
+            "years_of_experience_text": "سنوات الخبرة",
+            "client_satisfaction_text": "رضا العملاء",
+            "address_text": "العنوان",
+            "working_hours_text": "ساعات العمل",
+            "contact_text": "اتصل بنا",
+            "email_text": "البريد الإلكتروني",
+            "whatsapp_text": "واتساب",
+            "phone_text": "مكالمة هاتفية",
+            "home": "الرئيسية"
+        },
+        "en": {
+            "view_services": "View services",
+            "who_we_are": "Who we are",
+            "contact_with_us_on": "Contact with us by",
+            "follow_us": "Follow us on",
+            "our_location_on_the_map": "Our location on the map",
+            "our_services": "Our Services",
+            "learn_more": "Learn More",
+            "borders_we_serve": "Borders We Serve",
+            "why_us": "Why Us?",
+            "our_mission": "Our Mission",
+            "our_vision": "Our Vision",
+            "our_value": "Our Values",
+            "active_border_points": "2+",
+            "shipments_cleared": "1,200+",
+            "years_of_experience": "8+",
+            "client_satisfaction": "98%",
+            "active_border_points_text": "Active Border Points",
+            "shipments_cleared_text": "Monthly Shipments Cleared",
+            "years_of_experience_text": "Years of Experience",
+            "client_satisfaction_text": "Client Satisfaction",
+            "address_text": "Address",
+            "working_hours_text": "Working Hours",
+            "contact_text": "Contact Us",
+            "email_text": "Email",
+            "whatsapp_text": "WhatsApp",
+            "phone_text": "Phone Call",
+            "home": "Home"
+
+        }
+    },
+    "meta": {
+        "ar": {
+            "title": "وصال دائم لخدمات التخليص الجمركي | أبوظبي",
+            "description": "حلول موثوقة للتخليص الجمركي عبر الحدود البرية والبحرية والجوية في الإمارات والمنطقة.",
+            "keywords": "الخدمات اللوجستية، النقل، الشحن، البضائع، التوصيل، سلسلة التوريد، التخزين، التخليص الجمركي، الشحن، التوزيع"
+        },
+        "en": {
+            "title": "Wasal Dayim Customs Clearance Services | Abu Dhabi",
+            "description": "Reliable customs clearance solutions across land, sea and air borders in the UAE and the region.",
+            "keywords": "Logistics, Transportation, Shipping, Freight, Delivery, Supply Chain, Warehousing, Customs Clearance, Cargo, Distribution"
+        }
+    },
+    "hero": {
+        "ar": {
+            "company": "وصال دائم لخدمات التخليص الجمركي",
+            "headline": "حلول تخليص جمركي متكاملة تربط أعمالك بالأسواق بثقة وسلاسة",
+            "text": "نحن نُسهّل حركة بضائعك عبر الحدود البرية والبحرية والجوية من خلال خبرة عميقة، فريق محترف، وحلول مصممة خصيصاً لتلبية متطلبات أعمالك في دولة الإمارات والمنطقة.",
+            "cta": "تواصل معنا"
+        },
+        "en": {
+            "company": "WASAL DAYIM Customs Clearance Services",
+            "headline": "Reliable customs clearance solutions that keep your business moving",
+            "text": "We simplify cross-border trade through professional customs clearance, experienced teams, and tailored logistics solutions across land, sea, and air ports in the UAE and the region.",
+            "cta": "Contact Us"
+        }
+    },
+    "about": {
+        "ar": {
+            "title": "من نحن؟",
+            "text": "<b>وصال دائم لخدمات التخليص الجمركي – ذ.م.م – ش.ش.و</b><br /> هي شركة متخصصة في خدمات التخليص الجمركي والخدمات اللوجستية المساندة. نعمل على تقديم حلول احترافية تضمن انسيابية حركة الشحنات وتقليل الوقت والتكلفة على عملائنا.\n\nنتميّز بخبرة قوية في التخليص عبر المنافذ البرية، وعلى رأسها منفذ الغويفات في منطقة السلع (Sila)، مع فريق عمل يمتلك خبرة عملية طويلة في التعامل مع الأنظمة الجمركية والإجراءات التنظيمية المعقدة، مما يجعلنا شريكاً موثوقاً للشركات الباحثة عن الاعتمادية والالتزام."
+        },
+        "en": {
+            "title": "Who We Are?",
+            "text": "<b>WASAL DAYIM Customs Clearance Services – L.L.C – S.P.C</b><br /> is a specialized customs clearance company providing professional and reliable logistics support services. We focus on delivering smooth, efficient, and cost-effective clearance solutions tailored to our clients’ operational needs.\n\nOur strength lies in land border clearance, particularly at the Ghuwaifat border crossing in the Sila area, supported by a highly experienced team with deep knowledge of customs regulations and cross-border procedures, making us a trusted partner for businesses across the region."
+        }
+    },
+    "services": {
+        "customs_clearance": {
+            "ar": {
+                "title": "التخليص الجمركي",
+                "description": "نُقدّم خدمات تخليص جمركي شاملة تغطي الشحنات البرية والبحرية والجوية. نتولى جميع الإجراءات بدءاً من وصول الشحنة وحتى تسليمها للوجهة النهائية، مع الحرص على الالتزام الكامل بالقوانين وتقليل أي تأخير محتمل.",
+                "items": [
+                    "دفع الرسوم الجمركية وضريبة القيمة المضافة نيابةً عن العملاء",
+                    "التخليص السريع في الإمارات والسعودية",
+                    "التعامل مع المشاريع الخاصة والشحنات الحساسة",
+                    "إدارة مستندات الاستيراد والتصدير بكفاءة عالية",
+                    "التخليص عبر المنافذ البرية والبحرية والجوية",
+                    "إعداد بيانات المقاصة الخليجية (Makassa)",
+                    "إصدار بيانات الشحن البري المربوط (Bonded)"
+                ]
+            },
+            "en": {
+                "title": "Customs Clearance",
+                "description": "We provide comprehensive customs clearance services for land, sea, and air shipments. Our team manages the entire process from port of arrival to final delivery, ensuring full compliance while minimizing delays and costs.",
+                "items": [
+                    "Import duties and VAT payment on behalf of clients",
+                    "Express customs clearance services in UAE & KSA",
+                    "Handling specialized and complex clearance projects",
+                    "Import and export documentation management",
+                    "Clearance across land, sea, and air borders",
+                    "GCC statistical declarations (Makassa)",
+                    "Issuing bonded land courier declarations"
+                ]
+            }
+        },
+        "documentation": {
+            "ar": {
+                "title": "معالجة الوثائق",
+                "description": "نُدير جميع متطلبات المستندات الرسمية المرتبطة بالشحنات البرية والاستيراد والتصدير، مع ضمان الدقة والامتثال التام للجهات التنظيمية.",
+                "items": [
+                    "الموافقات الأمنية والتنفيذية",
+                    "شهادات SABER للشحنات إلى السعودية",
+                    "موافقات FANR (استيراد وتصدير)",
+                    "ZAD للمواد الغذائية",
+                    "مستندات غرف التجارة والتصديقات",
+                    "الشهادات الصحية النباتية",
+                    "دفع ضريبة القيمة المضافة",
+                    "موافقات هيئة تنظيم الاتصالات (TRA)"
+                ]
+            },
+            "en": {
+                "title": "Documentation Handling",
+                "description": "We handle all required official documentation related to land shipments, imports, and exports with precision and regulatory compliance.",
+                "items": [
+                    "Executive and security approvals",
+                    "ESMA certificates",
+                    "SABER certificates for KSA shipments",
+                    "FANR approvals (import & export)",
+                    "ZAD for food items",
+                    "Dubai Chamber documentation and attestations",
+                    "Phytosanitary certificates",
+                    "VAT payment services",
+                    "TRA approvals"
+                ]
+            }
+        }
+    },
+    "borders": {
+        "ar": {
+            "land": [
+                "منفذ السِلع <br /> الإمارات | السعودية",
+                "منفذ البطحاء <br /> الإمارات | السعودية"
+            ],
+            "sea": [
+                ""
+            ],
+            "air": [
+                ""
+            ]
+        },
+        "en": {
+            "land": [
+                "Sila Border <br /> UAE | KSA",
+                "Batha Border <br /> UAE | KSA"
+            ],
+            "sea": [
+                ""
+            ],
+            "air": [
+                ""
+            ]
+        }
+    },
+    "why_us": {
+        "ar": [
+            "خبرة عملية قوية في التخليص الجمركي والمنافذ البرية",
+            "فريق محترف يفهم متطلبات السوق والأنظمة المحلية",
+            "سرعة في الإنجاز ودقة في الإجراءات",
+            "حلول مرنة ومخصصة حسب طبيعة نشاط العميل",
+            "التزام كامل بالشفافية والموثوقية"
+        ],
+        "en": [
+            "Strong hands-on experience in customs clearance",
+            "Professional team with deep regulatory knowledge",
+            "Fast, accurate, and compliant processes",
+            "Flexible solutions tailored to your business",
+            "Trusted, transparent, and reliable service"
+        ]
+    },
+    "contact_social": {
+        "ar": {
+            "contact_text": "تواصل معنا اليوم ودعنا نُسهّل حركة أعمالك عبر الحدود",
+            "social_text": "تابعنا على منصات التواصل الاجتماعي للاطلاع على آخر الأخبار والخدمات"
+        },
+        "en": {
+            "contact_text": "Contact us today and let us simplify your cross-border operations.",
+            "social_text": "Follow us on social media for updates and insights."
+        }
+    },
+    "social_media": {
+        "facebook": "https://www.facebook.com/wasaldayim",
+        "twitter": "https://twitter.com/wasaldayim",
+        "linkedin": "https://www.linkedin.com/company/wasal-dayim",
+        "instagram": "https://www.instagram.com/wasaldayim",
+        "youtube": "https://www.youtube.com/wasaldayim",
+        "tiktok": "https://www.tiktok.com/@wasaldayim",
+        "whatsapp": "https://wa.me/971501234567",
+        "telegram": "https://t.me/wasaldayim",
+        "email": "info@wasaldayim.com",
+        "phone": "+971501234567"
+    },
+    "address": {
+        "ar": "الغويفات، أبوظبي، الإمارات العربية المتحدة",
+        "en": "Ghuwaifat, Abu Dhabi, UAE"
+    },
+    "map_link": "https://goo.gl/maps/wasaldayim",
+    "working_hours": {
+        "ar": "السبت - الخميس: 9 صباحاً - 6 مساءً",
+        "en": "Saturday - Thursday: 9 AM - 6 PM"
+    },
+    "footer_text": {
+        "ar": "© 2026 وصال دائم لخدمات التخليص الجمركي. جميع الحقوق محفوظة",
+        "en": "© 2026 WASAL DAYIM Customs Clearance Services. All rights reserved"
+    },
+    "privacy_policy": {
+        "ar": "سياسة الخصوصية",
+        "en": "Privacy Policy"
+    },
+    "terms_of_service": {
+        "ar": "شروط الخدمة",
+        "en": "Terms of Service"
+    },
+    "mission": {
+        "ar": "نلتزم بتقديم خدمات تخليص جمركي ولوجستية متكاملة تتميز بالكفاءة العالية والتكلفة المناسبة، مع الحرص الدائم على تجاوز توقعات عملائنا من خلال حلول موثوقة وسريعة تلبي احتياجاتهم التشغيلية والتجارية.",
+        "en": "We are committed to delivering integrated customs clearance and logistics services with high efficiency and cost effectiveness, consistently striving to exceed our clients’ expectations through reliable, fast, and tailored solutions."
+    },
+    "vision": {
+        "ar": "أن نكون من روّاد شركات الخدمات اللوجستية والتخليص الجمركي المتكاملة في دولة الإمارات العربية المتحدة ومنطقة الخليج، مع بناء سمعة قائمة على الثقة والاحترافية.",
+        "en": "To become a leading integrated customs clearance and logistics service provider in the United Arab Emirates and the GCC region, built on trust, professionalism, and long-term partnerships."
+    },
+    "core_values": {
+        "integrity": {
+            "title": {
+                "ar": "النزاهة",
+                "en": "Integrity"
+            },
+            "description": {
+                "ar": "نلتزم بالشفافية والمصداقية في جميع تعاملاتنا، ونعمل وفق أعلى المعايير الأخلاقية.",
+                "en": "We uphold transparency and honesty in all our dealings, operating according to the highest ethical standards."
+            }
+        },
+        "consistency": {
+            "title": {
+                "ar": "الاستمرارية والثبات",
+                "en": "Consistency"
+            },
+            "description": {
+                "ar": "نحافظ على مستوى ثابت من الجودة والأداء في جميع خدماتنا دون استثناء.",
+                "en": "We maintain a consistent level of quality and performance across all our services without compromise."
+            }
+        },
+        "customer_satisfaction": {
+            "title": {
+                "ar": "رضا العملاء",
+                "en": "Customer Satisfaction"
+            },
+            "description": {
+                "ar": "رضا عملائنا هو أولويتنا القصوى، ونعمل باستمرار على تحسين خدماتنا لتلبية تطلعاتهم.",
+                "en": "Customer satisfaction is our top priority, and we continuously enhance our services to meet and exceed their expectations."
+            }
+        }
+    }
+}
