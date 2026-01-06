@@ -5,7 +5,9 @@ $content = json_decode(file_get_contents('../content.json'), true);
 // تحديد اللغة
 $lang = 'en';
 
-// STATIC
+// ==================================================
+// STATIC TEXTS
+// ==================================================
 $view_services = $content['static'][$lang]['view_services'];
 $who_we_are = $content['static'][$lang]['who_we_are'];
 $contact_with_us_on = $content['static'][$lang]['contact_with_us_on'];
@@ -18,14 +20,18 @@ $why_us_title = $content['static'][$lang]['why_us'];
 $our_mission = $content['static'][$lang]['our_mission'];
 $our_vision = $content['static'][$lang]['our_vision'];
 $our_value = $content['static'][$lang]['our_value'];
+$why_us = $content['static'][$lang]['why_us'];
+
 $active_border_points = $content['static'][$lang]['active_border_points'];
 $shipments_cleared = $content['static'][$lang]['shipments_cleared'];
 $years_of_experience = $content['static'][$lang]['years_of_experience'];
 $client_satisfaction = $content['static'][$lang]['client_satisfaction'];
+
 $active_border_points_text = $content['static'][$lang]['active_border_points_text'];
 $shipments_cleared_text = $content['static'][$lang]['shipments_cleared_text'];
 $years_of_experience_text = $content['static'][$lang]['years_of_experience_text'];
 $client_satisfaction_text = $content['static'][$lang]['client_satisfaction_text'];
+
 $address_text = $content['static'][$lang]['address_text'];
 $working_hours_text = $content['static'][$lang]['working_hours_text'];
 $contact_us_text = $content['static'][$lang]['contact_text'];
@@ -34,47 +40,88 @@ $whatsapp_text = $content['static'][$lang]['whatsapp_text'];
 $phone_text = $content['static'][$lang]['phone_text'];
 $home = $content['static'][$lang]['home'];
 
+// NEW STATIC ADDITIONS
+$contact_whatsapp_direct = $content['static'][$lang]['contact_whatsapp'];
+
+// ==================================================
+// REQUEST FOR QUOTATION (RFQ) — STATIC TRANSLATIONS
+// ==================================================
+
+$rfq_title            = $content['static'][$lang]['rfq_title'];
+$rfq_name             = $content['static'][$lang]['rfq_name'];
+$rfq_company          = $content['static'][$lang]['rfq_company'];
+$rfq_phone            = $content['static'][$lang]['rfq_phone'];
+$rfq_email            = $content['static'][$lang]['rfq_email'];
+$rfq_service          = $content['static'][$lang]['rfq_service'];
+$rfq_shipment_type    = $content['static'][$lang]['rfq_shipment_type'];
+$rfq_origin           = $content['static'][$lang]['rfq_origin'];
+$rfq_destination      = $content['static'][$lang]['rfq_destination'];
+$rfq_notes            = $content['static'][$lang]['rfq_notes'];
+$rfq_submit           = $content['static'][$lang]['rfq_submit'];
 
 
-
-// META
+// ==================================================
+// META DATA
+// ==================================================
 $title = $content['meta'][$lang]['title'];
 $description = $content['meta'][$lang]['description'];
 $keywords = $content['meta'][$lang]['keywords'];
 
-// HERO
+
+// ==================================================
+// HERO SECTION
+// ==================================================
 $hero_company = $content['hero'][$lang]['company'];
 $hero_headline = $content['hero'][$lang]['headline'];
 $hero_text = $content['hero'][$lang]['text'];
 $hero_cta = $content['hero'][$lang]['cta'];
 
+
+// ==================================================
 // ABOUT
+// ==================================================
 $about_title = $content['about'][$lang]['title'];
 $about_text = $content['about'][$lang]['text'];
 
-// SERVICES - Customs Clearance
+
+// ==================================================
+// SERVICES – CUSTOMS CLEARANCE
+// ==================================================
 $customs_title = $content['services']['customs_clearance'][$lang]['title'];
 $customs_description = $content['services']['customs_clearance'][$lang]['description'];
 $customs_items = $content['services']['customs_clearance'][$lang]['items'];
 
-// SERVICES - Documentation Handling
+
+// ==================================================
+// SERVICES – DOCUMENTATION HANDLING
+// ==================================================
 $docs_title = $content['services']['documentation'][$lang]['title'];
 $docs_description = $content['services']['documentation'][$lang]['description'];
 $docs_items = $content['services']['documentation'][$lang]['items'];
 
+
+// ==================================================
 // BORDERS
+// ==================================================
 $borders_land = $content['borders'][$lang]['land'];
 $borders_sea = $content['borders'][$lang]['sea'];
 $borders_air = $content['borders'][$lang]['air'];
 
-// WHY US
-$why_us = $content['why_us'][$lang];
+// KSA BORDERS (DETAILED)
+// $ksa_borders = $content['borders'][$lang]['ksa'];
 
-// CONTACT & SOCIAL
+
+
+// ==================================================
+// CONTACT & SOCIAL TEXT
+// ==================================================
 $contact_text = $content['contact_social'][$lang]['contact_text'];
 $social_text = $content['contact_social'][$lang]['social_text'];
 
-// SOCIAL MEDIA
+
+// ==================================================
+// SOCIAL MEDIA LINKS
+// ==================================================
 $facebook = $content['social_media']['facebook'];
 $twitter = $content['social_media']['twitter'];
 $linkedin = $content['social_media']['linkedin'];
@@ -82,27 +129,43 @@ $instagram = $content['social_media']['instagram'];
 $youtube = $content['social_media']['youtube'];
 $tiktok = $content['social_media']['tiktok'];
 
-// CONTACT
 $whatsapp = $content['social_media']['whatsapp'];
 $telegram = $content['social_media']['telegram'];
-$email = $content['social_media']['email'];
-$phone = $content['social_media']['phone'];
 
+$phone_manager = $content['social_media']['phone_manager'];   // +971503295058
+$phone_mobile = $content['social_media']['phone'];    // +971502573020
+$phone_landline = $content['social_media']['phone_landline']; // +97126217178
+
+$email_official = $content['social_media']['email']; // contact@wasaldayim.com
+$email_gmail = $content['social_media']['gmail'];       // wasaldayim@gmail.com
+
+
+// ==================================================
 // ADDRESS & MAP
+// ==================================================
 $address = $content['address'][$lang];
 $map_link = $content['map_link'];
 $working_hours = $content['working_hours'][$lang];
 
+
+// ==================================================
 // FOOTER
+// ==================================================
 $footer_text = $content['footer_text'][$lang];
 $privacy_policy = $content['privacy_policy'][$lang];
 $terms_of_service = $content['terms_of_service'][$lang];
 
+
+// ==================================================
 // MISSION & VISION
+// ==================================================
 $mission = $content['mission'][$lang];
 $vision = $content['vision'][$lang];
 
+
+// ==================================================
 // CORE VALUES
+// ==================================================
 $integrity_title = $content['core_values']['integrity']['title'][$lang];
 $integrity_description = $content['core_values']['integrity']['description'][$lang];
 
@@ -111,6 +174,28 @@ $consistency_description = $content['core_values']['consistency']['description']
 
 $customer_satisfaction_title = $content['core_values']['customer_satisfaction']['title'][$lang];
 $customer_satisfaction_description = $content['core_values']['customer_satisfaction']['description'][$lang];
+
+
+// ==================================================
+// CUSTOMS SCOPE (IMPORT / EXPORT)
+// ==================================================
+// $customs_main_border = $content['customs_scope'][$lang]['main_border'];
+// $customs_import_export = $content['customs_scope'][$lang]['import_export'];
+
+
+// ==================================================
+// SEO HELPERS
+// ==================================================
+$company_name = $hero_company;
+$company_short_description = $description;
+
+
+// ==================================================
+// WHATSAPP DIRECT CTA
+// ==================================================
+$whatsapp_direct_link = $whatsapp;
+$whatsapp_direct_text = $contact_whatsapp_direct;
+
 ?>
 
 <!DOCTYPE html>
@@ -228,13 +313,13 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
                         <span class="tw-w-10 tw-h-10 flex-shrink-0 bg-main-600 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center">
                             <i class="ph ph-phone"></i>
                         </span>
-                        <a href="tel:<?php echo $phone; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-lg"><?php echo $phone; ?></a>
+                        <a href="tel:<?php echo $phone_mobile; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-lg"><?php echo $phone_mobile; ?></a>
                     </div>
                     <div class="cursor-small animate-item d-flex align-items-center tw-gap-5">
                         <span class="tw-w-10 tw-h-10 flex-shrink-0 bg-main-600 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center">
                             <i class="ph ph-envelope"></i>
                         </span>
-                        <a href="mailto:<?php echo $email; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-lg"><?php echo $email ?></a>
+                        <a href="mailto:<?php echo $email_official; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-lg"><?php echo $email_official ?></a>
                     </div>
                     <div class="cursor-small animate-item d-flex align-items-start tw-gap-5">
                         <span class="tw-w-10 tw-h-10 flex-shrink-0 bg-main-600 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center">
@@ -314,15 +399,15 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
                         </div>
                         <div class="cursor-small d-flex align-items-center tw-gap-2 tw-py-205">
                             <span class="text-main-600 d-flex"><i class="ph-bold ph-envelope"></i></span>
-                            <a href="mailto:<?php echo $email ?>" class="text-white xl-tw-text-sm tw-text-xs fw-medium hover--translate-x-05 hover-text-main-600 tw-transition-all"><?php echo $email ?></a>
+                            <a href="mailto:<?php echo $email_official ?>" class="text-white xl-tw-text-sm tw-text-xs fw-medium hover--translate-x-05 hover-text-main-600 tw-transition-all"><?php echo $email_official ?></a>
                         </div>
                     </div>
                     <div class="d-md-flex d-none align-items-center tw-gap-8 cursor-small">
                         <div class="tw-px-10 tw-py-3 bg-main-600 d-flex align-items-center tw-gap-6 both-clipped">
-                            <i class="ph ph-whatsapp-logo text-white"></i>
-                            <a href="https://wa.me/<?php echo $whatsapp ?>" class="text-white fw-medium hover-underline">
-                                تواصل واتساب
+                            <a href="<?php echo $whatsapp ?>" target="_blank" class="text-white fw-medium hover-underline">
+                                <?php echo $contact_whatsapp_direct ?>
                             </a>
+                            <i class="ph ph-whatsapp-logo text-white"></i>
                         </div>
                         <ul class="d-lg-flex d-none align-items-center tw-gap-5 cursor-small">
                             <li>
@@ -375,8 +460,19 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
                                 <li class="nav-menu__item">
                                     <a href="#why-us" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-5 fw-medium w-100"><?php echo $why_us_title ?></a>
                                 </li>
-                                <li class="nav-menu__item">
-                                    <a href="#contact" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-5 fw-medium w-100"><?php echo $contact_us_text ?></a>
+                                 <li class="nav-menu__item has-submenu position-relative">
+                                    <a href="javascript:void(0)" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">Contact numbers</a>
+                                    <ul class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
+                                        <li class="nav-menu__item">
+                                            <a href="tel:<?php echo $phone_landline ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Landline phone <?php echo $phone_landline ?></a>
+                                        </li>
+                                        <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="tel:<?php echo $phone_mobile ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Mobile phone <?php echo $phone_mobile ?></a>
+                                        </li>
+                                        <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
+                                            <a href="tel:<?php echo $phone_manager ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Admin phone <?php echo $phone_manager ?></a>
+                                        </li>
+                                    </ul>
                                 </li>
 
 
@@ -389,13 +485,14 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
                         <!-- Menu End  -->
                     </div>
 
+
                     <!-- Header Right start -->
                     <div class="d-flex gap-xxl-5 gap-3">
                         <div class="d-flex align-items-center tw-gap-36-px flex-shrink-0">
                             <!-- Language Start -->
-                            <div class="cursor-small position-relative group-item hover-mt-0 xs-d-block d-none">
+                            <div class="cursor-small position-relative group-item hover-mt-0">
                                 <div class="d-flex align-items-center tw-gap-2">
-                                    <a href="../ar" class="selected-text text-white d-flex align-items-center gap-2">
+                                    <a href="../ar" class="selected-text text-white d-flex align-items-center gap-2 responsive-text">
                                         <span class="tw-w-25-px tw-h-25-px border border-white border-2 rounded-circle common-shadow d-flex justify-content-center align-items-center">
                                             <img src="../assets/images/thumbs/flag7.png" alt="" class="w-100 h-100 object-fit-cover rounded-circle">
                                         </span>
@@ -411,7 +508,7 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
                             <!-- Line End -->
 
                             <!-- Bar icon -->
-                            <button type="button" class="offcanvas-bar-icon cursor-small hover--translate-y-1 active--translate-y-05 tw-duration-150 xs-d-block d-none">
+                            <button type="button" class="offcanvas-bar-icon cursor-small hover--translate-y-1 active--translate-y-05 tw-duration-150">
                                 <img src="../assets/images/icons/bars-two.svg" alt="">
                             </button>
                             <!-- Bar icon End -->
@@ -423,7 +520,6 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
                     </div>
 
                     <!-- Header Right End  -->
-                </nav>
             </div>
         </header>
         <!-- ==================== Header End Here ==================== -->
@@ -526,7 +622,7 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
     <!-- ========================= brand Three Start ============================= -->
     <div class="brand-three-slider-wrapper tw-mt-13" id="contact">
         <div class="max-w-856-px mx-auto text-center tw-pb-4 tw-mb-2">
-            <span class="splitTextStyleTwo cursor-small tw-text-xl fw-bold text-main-600 tw-mb-305 w-100 text-center">
+            <span class="splitTextStyleTwo cursor-small fw-bold text-main-600 tw-mb-305 w-100 text-center responsive-text">
                 <i class="ph-fill ph-caret-right"></i>
                 <?php echo $contact_text ?>
                 <i class="ph-fill ph-caret-left"></i>
@@ -971,8 +1067,8 @@ $customer_satisfaction_description = $content['core_values']['customer_satisfact
                             <h5 class="text-white tw-mb-6 cursor-big splitTextStyleTwo"><?php echo $contact_us_text ?></h5>
                             <ul class="d-flex flex-column tw-gap-4">
                                 <li><a href="<?php echo $whatsapp ?>" class="text-neutral-100 hover-text-main-600 cursor-small"><?php echo $whatsapp_text ?></a></li>
-                                <li><a href="mailto:<?php echo $email ?>" class="text-neutral-100 hover-text-main-600 cursor-small"><?php echo $email_text ?></a></li>
-                                <li><a href="tel:<?php echo $phone ?>" class="text-neutral-100 hover-text-main-600 cursor-small"><?php echo $phone_text ?></a></li>
+                                <li><a href="mailto:<?php echo $email_official ?>" class="text-neutral-100 hover-text-main-600 cursor-small"><?php echo $email_official_text ?></a></li>
+                                <li><a href="tel:<?php echo $phone_mobile ?>" class="text-neutral-100 hover-text-main-600 cursor-small"><?php echo $phone_mobile_text ?></a></li>
                             </ul>
                         </div>
 

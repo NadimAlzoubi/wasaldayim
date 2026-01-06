@@ -248,6 +248,47 @@
     unicode-bidi: embed;
 }
 
+/* Responsive Text Class */
+.responsive-text {
+    font-size: 1rem; /* حجم افتراضي للشاشات الكبيرة */
+}
+
+/* الشاشات الكبيرة جدًا >= 1200px */
+@media (min-width: 1200px) {
+    .responsive-text {
+        font-size: 1.4rem;
+    }
+}
+
+/* الشاشات الكبيرة >= 992px */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .responsive-text {
+        font-size: 1.3rem;
+    }
+}
+
+/* الشاشات المتوسطة >= 768px */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .responsive-text {
+        font-size: 1.2rem;
+    }
+}
+
+/* الشاشات الصغيرة >= 576px */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .responsive-text {
+        font-size: 1rem;
+    }
+}
+
+/* الشاشات الصغيرة جدًا < 576px */
+@media (max-width: 575.98px) {
+    .responsive-text {
+        font-size: 0.8rem;
+    }
+}
+
+
 html {
     scroll-behavior: smooth;
 }
@@ -7079,11 +7120,11 @@ only screen and (min-width: 768px) and (max-width: 991px),
 
 /* Header Menu and Submenu Css Start */
 .nav-menu__item.activePage>a {
-    color: var(--main-600) !important;
+    /* color: var(--main-600) !important; */
 }
 
 .nav-menu__item.activePage>a::before {
-    color: var(--main-600);
+    /* color: var(--main-600); */
 }
 
 .nav-menu__item:hover>a {
