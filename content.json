@@ -43,7 +43,7 @@
         },
         "en": {
             "view_services": "View Services",
-            "who_we_are": "Who We Are",
+            "who_we_are": "Who We Are?",
             "contact_with_us_on": "Contact us via",
             "contact_whatsapp": "Contact us via WhatsApp",
             "follow_us": "Follow Us",
@@ -98,7 +98,7 @@
     "hero": {
         "ar": {
             "company": "وصال دائم لخدمات التخليص الجمركي",
-            "headline": "تخليص جمركي احترافي عبر منفذ الغويفات وجميع منافذ المملكة",
+            "headline": "تخليص جمركي احترافي عبر منفذ الغويفات وجميع منافذ المملكة العربية السعودية",
             "text": "نقدّم خدمات تخليص جمركي متكاملة للاستيراد والتصدير عبر منفذ الغويفات وجميع المنافذ البرية للمملكة العربية السعودية، بسرعة، دقة، والتزام كامل بالأنظمة.",
             "cta": "تواصل معنا"
         },
@@ -212,12 +212,12 @@
         "ar": {
             "land": [
                 "منفذ الغويفات <br /> الإمارات | السعودية",
-                "منفذ البطحاء <br /> السعودية",
-                "منفذ الخفجي <br /> السعودية",
-                "منفذ الحديثة <br /> السعودية",
+                "منفذ البطحاء <br /> السعودية | الإمارات",
+                "منفذ الخفجي <br /> السعودية | الكويت",
+                "منفذ الحديثة <br /> السعودية | الأردن",
                 "منفذ سلوى <br /> السعودية | قطر",
                 "جسر الملك فهد <br /> السعودية | البحرين",
-                "منفذ الربع الخالي <br /> السعودية"
+                "منفذ الربع الخالي <br /> السعودية | عُمان"
             ],
             "sea": [
                 ""
@@ -229,12 +229,12 @@
         "en": {
             "land": [
                 "Ghuwaifat Border <br /> UAE | KSA",
-                "Batha Border <br /> KSA",
-                "Khafji Border <br /> KSA",
-                "Al Haditha Border <br /> KSA",
+                "Batha Border <br /> KSA | UAE",
+                "Khafji Border <br /> KSA | Kuwait",
+                "Al Haditha Border <br /> KSA | Jordan",
                 "Salwa Border <br /> KSA | Qatar",
                 "King Fahd Causeway <br /> KSA | Bahrain",
-                "Empty Quarter Border <br /> KSA"
+                "Empty Quarter Border <br /> KSA | Oman"
             ],
             "sea": [
                 ""
@@ -246,12 +246,12 @@
     },
     "contact_social": {
         "ar": {
-            "contact_text": "تواصل معنا الآن للحصول على استشارة وتخليص جمركي سريع وموثوق",
-            "social_text": "تابعنا على منصات التواصل الاجتماعي لمعرفة آخر المستجدات"
+            "contact_text": "تواصل معنا الآن للحصول على استشارة<br /> وتخليص جمركي سريع وموثوق",
+            "social_text": "تابعنا على منصات التواصل الاجتماعي<br /> لمعرفة آخر المستجدات"
         },
         "en": {
-            "contact_text": "Contact us now for fast and reliable customs clearance consultation.",
-            "social_text": "Follow us on social media for the latest updates."
+            "contact_text": "Contact us now for fast and<br /> reliable customs clearance consultation.",
+            "social_text": "Follow us on social media<br /> for the latest updates."
         }
     },
     "social_media": {

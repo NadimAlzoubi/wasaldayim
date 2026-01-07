@@ -313,19 +313,31 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                         <span class="tw-w-10 tw-h-10 flex-shrink-0 bg-main-600 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center">
                             <i class="ph ph-phone"></i>
                         </span>
-                        <a href="tel:<?php echo $phone_mobile; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-lg"><?php echo $phone_mobile; ?></a>
+                        <a href="tel:<?php echo $phone_landline; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-md rounded"> Landline <bdi><?php echo $phone_landline ?></bdi></a>
+                    </div>
+                    <div class="cursor-small animate-item d-flex align-items-center tw-gap-5">
+                        <span class="tw-w-10 tw-h-10 flex-shrink-0 bg-main-600 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center">
+                            <i class="ph ph-phone"></i>
+                        </span>
+                        <a href="tel:<?php echo $phone_mobile; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-md rounded"> Mobile <bdi><?php echo $phone_mobile ?></bdi></a>
+                    </div>
+                    <div class="cursor-small animate-item d-flex align-items-center tw-gap-5">
+                        <span class="tw-w-10 tw-h-10 flex-shrink-0 bg-main-600 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center">
+                            <i class="ph ph-phone"></i>
+                        </span>
+                        <a href="tel:<?php echo $phone_manager; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-md rounded"> Manager <bdi><?php echo $phone_manager ?></bdi></a>
                     </div>
                     <div class="cursor-small animate-item d-flex align-items-center tw-gap-5">
                         <span class="tw-w-10 tw-h-10 flex-shrink-0 bg-main-600 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center">
                             <i class="ph ph-envelope"></i>
                         </span>
-                        <a href="mailto:<?php echo $email_official; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-lg"><?php echo $email_official ?></a>
+                        <a href="mailto:<?php echo $email_official; ?>" class="text-main-two-600 hover-text-main-600 hover--translate-x-1 fw-medium tw-text-md"><?php echo $email_official ?></a>
                     </div>
                     <div class="cursor-small animate-item d-flex align-items-start tw-gap-5">
                         <span class="tw-w-10 tw-h-10 flex-shrink-0 bg-main-600 rounded-circle text-white tw-text-xl d-flex justify-content-center align-items-center">
                             <i class="ph ph-map-pin"></i>
                         </span>
-                        <p class="text-main-two-600 fw-medium tw-text-lg"><?php echo $address ?></p>
+                        <p class="text-main-two-600 fw-medium tw-text-md"><?php echo $address ?></p>
                     </div>
                 </div>
             </div>
@@ -460,17 +472,17 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                                 <li class="nav-menu__item">
                                     <a href="#why-us" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-5 fw-medium w-100"><?php echo $why_us_title ?></a>
                                 </li>
-                                 <li class="nav-menu__item has-submenu position-relative">
+                                <li class="nav-menu__item has-submenu position-relative">
                                     <a href="javascript:void(0)" class="nav-menu__link hover--translate-y-1 text-main-two-600 tw-py-9 fw-medium w-100 tw-pe-4">Contact numbers</a>
                                     <ul class="nav-submenu scroll-sm position-absolute start-0 top-100 tw-w-max bg-white tw-rounded-md overflow-hidden tw-p-2 tw-mt-4 tw-duration-200 tw-z-99">
                                         <li class="nav-menu__item">
-                                            <a href="tel:<?php echo $phone_landline ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Landline phone <?php echo $phone_landline ?></a>
+                                            <a href="tel:<?php echo $phone_landline ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Landline <?php echo $phone_landline ?></a>
                                         </li>
                                         <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-                                            <a href="tel:<?php echo $phone_mobile ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Mobile phone <?php echo $phone_mobile ?></a>
+                                            <a href="tel:<?php echo $phone_mobile ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Mobile <?php echo $phone_mobile ?></a>
                                         </li>
                                         <li class="nav-submenu__item d-block tw-rounded tw-duration-200 position-relative">
-                                            <a href="tel:<?php echo $phone_manager ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Admin phone <?php echo $phone_manager ?></a>
+                                            <a href="tel:<?php echo $phone_manager ?>" class="nav-submenu__link hover-bg-neutral-100 text-black fw-medium w-100 d-block tw-py-2 tw-px-305 tw-rounded"> Manager <?php echo $phone_manager ?></a>
                                         </li>
                                     </ul>
                                 </li>
@@ -514,7 +526,7 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                             <!-- Bar icon End -->
                         </div>
 
-                        <button type="button" class="toggle-mobileMenu leading-none d-lg-none text-white tw-text-9">
+                        <button type="button" class="toggle-mobileMenu leading-none d-lg-none text-white tw-text-9 d-none">
                             <i class="ph ph-list"></i>
                         </button>
                     </div>
@@ -623,9 +635,7 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
     <div class="brand-three-slider-wrapper tw-mt-13" id="contact">
         <div class="max-w-856-px mx-auto text-center tw-pb-4 tw-mb-2">
             <span class="splitTextStyleTwo cursor-small fw-bold text-main-600 tw-mb-305 w-100 text-center responsive-text">
-                <i class="ph-fill ph-caret-right"></i>
                 <?php echo $contact_text ?>
-                <i class="ph-fill ph-caret-left"></i>
             </span>
         </div>
         <div class="container">
@@ -633,22 +643,17 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                 <div class="swiper-wrapper align-items-center justify-content-center tw-gap-17">
                     <div class="me-0" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
                         <div class="text-center cursor-big">
-                            <img src="../assets/images/social/whatsapp-c.png" alt="WhatsApp" class="" width="75px">
+                            <img src="../assets/images/social/whatsapp-c.png" alt="WhatsApp" class="responsive-img">
                         </div>
                     </div>
-                    <!-- <div class="me-0" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                        <div class="text-center cursor-big">
-                            <img src="../assets/images/social/telegram-c.png" alt="" class="" width="75px">
-                        </div>
-                    </div> -->
                     <div class="me-0" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
                         <div class="text-center cursor-big">
-                            <img src="../assets/images/social/gmail-c.png" alt="Email" class="" width="75px">
+                            <img src="../assets/images/social/gmail-c.png" alt="Email" class="responsive-img">
                         </div>
                     </div>
                     <div class="me-0" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
                         <div class="text-center cursor-big">
-                            <img src="../assets/images/social/phone-c.png" alt="Phone call" class="" width="75px">
+                            <img src="../assets/images/social/phone-c.png" alt="Phone call" class="responsive-img">
                         </div>
                     </div>
                 </div>
@@ -660,10 +665,8 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
     <!-- ========================= brand Three Start ============================= -->
     <div class="brand-three-slider-wrapper tw-mt-13">
         <div class="max-w-856-px mx-auto text-center tw-pb-4 tw-mb-2">
-            <span class="splitTextStyleTwo cursor-small tw-text-xl fw-bold text-main-600 tw-mb-305 w-100 text-center">
-                <i class="ph-fill ph-caret-right"></i>
+            <span class="splitTextStyleTwo cursor-small fw-bold text-main-600 tw-mb-305 w-100 text-center responsive-text">
                 <?php echo $social_text ?>
-                <i class="ph-fill ph-caret-left"></i>
             </span>
         </div>
         <div class="container">
@@ -671,17 +674,17 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                 <div class="swiper-wrapper align-items-center justify-content-center tw-gap-17">
                     <div class="me-0" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
                         <div class="text-center cursor-big">
-                            <img src="../assets/images/social/facebook-c.png" alt="Facebook" class="" width="75px">
+                            <img src="../assets/images/social/facebook-c.png" alt="Facebook" class="responsive-img">
                         </div>
                     </div>
                     <div class="me-0" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
                         <div class="text-center cursor-big">
-                            <img src="../assets/images/social/instagram-c.png" alt="Instagram" class="" width="75px">
+                            <img src="../assets/images/social/instagram-c.png" alt="Instagram" class="responsive-img">
                         </div>
                     </div>
                     <div class="me-0" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
                         <div class="text-center cursor-big">
-                            <img src="../assets/images/social/tiktok-c.png" alt="TikTok" class="" width="75px">
+                            <img src="../assets/images/social/tiktok-c.png" alt="TikTok" class="responsive-img">
                         </div>
                     </div>
                 </div>
@@ -693,10 +696,8 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
 
     <div class="brand-three-slider-wrapper tw-mt-13">
         <div class="max-w-856-px mx-auto text-center tw-pb-4 tw-mb-2">
-            <span class="splitTextStyleTwo cursor-small tw-text-xl fw-bold text-main-600 tw-mb-305 w-100 text-center">
-                <i class="ph-fill ph-caret-right"></i>
+            <span class="splitTextStyleTwo cursor-small fw-bold text-main-600 tw-mb-305 w-100 text-center responsive-text">
                 <?php echo $our_location_on_the_map ?>
-                <i class="ph-fill ph-caret-left"></i>
             </span>
         </div>
         <div class="container">
@@ -719,9 +720,7 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                     <div class="max-w-856-px mx-auto text-center tw-pb-6 tw-mb-6">
                         <span class="splitTextStyleTwo cursor-small tw-text-xl fw-bold text-main-600 tw-mb-305 w-100 text-center"><?php echo $hero_company ?></span>
                         <h1 class="splitTextStyleOne cursor-big" dir="ltr">
-                            <i class="ph-fill ph-caret-right"></i>
                             <?php echo $our_services ?>
-                            <i class="ph-fill ph-caret-left"></i>
                         </h1>
                     </div>
 
@@ -730,16 +729,16 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                         <div class="col-md-6 d-flex" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
                             <div class="service-three-item tw-pb-13 overflow-hidden position-relative group bg-white common-shadow-five p-4 rounded">
                                 <div class="d-flex align-items-start tw-gap-4">
-                                    <span class="tw-h-85-px tw-w-85-px bg-main-600 tw-rounded d-flex justify-content-center align-items-center cursor-big flex-shrink-0">
+                                    <span class="responsive-width responsive-height bg-main-600 tw-rounded d-flex justify-content-center align-items-center cursor-big flex-shrink-0">
                                         <img src="../assets/images/icons/tranport-way-icon1.svg" style="width: 3rem;" alt="">
                                     </span>
                                     <div class="flex-grow-1">
-                                        <h6 class="tw-mb-2 tw-text-lg fw-semibold">
+                                        <h6 class="tw-mb-2 responsive-text fw-semibold">
                                             <?php echo $customs_title ?>
                                         </h6>
-                                        <p class="text-neutral-1000 cursor-small"><?php echo $customs_description ?></p>
+                                        <p class="text-neutral-1000 cursor-small responsive-text"><?php echo $customs_description ?></p>
                                         <?php if (!empty($customs_items) && is_array($customs_items)): ?>
-                                            <ul class="list-disc ps-4 mt-2 text-neutral-800" style="list-style: disc;">
+                                            <ul class="list-disc ps-4 mt-2 text-neutral-800 tw-text-md" style="list-style: disc; line-height: 2;">
                                                 <?php foreach ($customs_items as $item): ?>
                                                     <li><?php echo $item ?></li>
                                                 <?php endforeach; ?>
@@ -754,16 +753,16 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                         <div class="col-md-6 d-flex" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
                             <div class="service-three-item tw-pb-13 overflow-hidden position-relative group bg-white common-shadow-five p-4 rounded">
                                 <div class="d-flex align-items-start tw-gap-4">
-                                    <span class="tw-h-85-px tw-w-85-px bg-main-600 tw-rounded d-flex justify-content-center align-items-center cursor-big flex-shrink-0">
+                                    <span class="responsive-width responsive-height bg-main-600 tw-rounded d-flex justify-content-center align-items-center cursor-big flex-shrink-0">
                                         <img src="../assets/images/icons/process-icon1.svg" style="width: 3rem;" alt="">
                                     </span>
                                     <div class="flex-grow-1">
-                                        <h6 class="tw-mb-2 tw-text-lg fw-semibold">
+                                        <h6 class="tw-mb-2 responsive-text fw-semibold">
                                             <?php echo $docs_title ?>
                                         </h6>
-                                        <p class="text-neutral-1000 cursor-small"><?php echo $docs_description ?></p>
+                                        <p class="text-neutral-1000 cursor-small responsive-text"><?php echo $docs_description ?></p>
                                         <?php if (!empty($docs_items) && is_array($docs_items)): ?>
-                                            <ul class="list-disc ps-4 mt-2 text-neutral-800" style="list-style: disc;">
+                                            <ul class="list-disc ps-4 mt-2 text-neutral-800 tw-text-md" style="list-style: disc; line-height: 2;">
                                                 <?php foreach ($docs_items as $item): ?>
                                                     <li><?php echo $item ?></li>
                                                 <?php endforeach; ?>
@@ -787,42 +786,25 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
                     <div class="max-w-856-px mx-auto text-center tw-pb-16">
                         <span class="splitTextStyleTwo cursor-small tw-text-xl fw-bold text-main-600 tw-mb-305 w-100 text-center"><?php echo $hero_company ?></span>
                         <h2 class="cursor-big h1">
-                            <i class="ph-fill ph-caret-right"></i>
                             <span class="splitTextStyleOne" dir="ltr"><?php echo $borders_we_serve ?></span>
-                            <i class="ph-fill ph-caret-left"></i>
                         </h2>
                     </div>
 
                     <div class="how-it-work-item-wrapper">
-                        <div class="row gy-4 justify-content-around">
-                            <div class="col-lg-3 col-sm-6" style="width: 40%;" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                                <div class="transport-way-item transport-card style-two position-relative text-center">
-                                    <img src="../assets/images/icons/rocket.svg" alt="" class="rocket position-absolute tw-start-full bottom-0 tw-mb--88-px d-lg-block d-none">
-
-                                    <span class="transport-way-item__icon cursor-big tw-w-95-px tw-h-95-px bg-main-600 rounded-circle tw-rounded-bl-0 d-inline-flex justify-content-center align-items-center tw-transition-all tw-duration-300">
-                                        <img src="../assets/images/icons/tranport-way-icon3.svg" alt="">
-                                    </span>
-                                    <div class="transport-way-item__content border border-neutral-50 bg-neutral-50 tw-py-15 tw-px-24-px tw-rounded tw-duration-300">
-                                        <h5 class="tw-mb-6 cursor-big"><?php echo $borders_land[0] ?></h5>
-                                        <p class="text-neutral-1000 cursor-small line-clamp-2"></p>
+                        <div class="row gy-4 justify-content-around responsive-row-gap">
+                            <?php if (!empty($borders_land) && is_array($borders_land)): ?>
+                                <?php foreach ($borders_land as $item): ?>
+                                    <div class="col-lg-3 col-sm-6" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                                        <div class="transport-way-item transport-card style-two position-relative text-center">
+                                            <img src="../assets/images/icons/rocket.svg" alt="" class="rocket position-absolute tw-start-full bottom-0 tw-mb--88-px d-lg-block d-none">
+                                            <div class="transport-way-item__content bg-neutral-200 tw-py-10 tw-px-16-px tw-rounded tw-duration-300" style="border: 1px solid #721d1d">
+                                                <h5 class="tw-mb-6 cursor-big responsive-text" style="line-height: 2;"><?php echo $item ?></h5>
+                                                <p class="text-neutral-1000 cursor-small line-clamp-2"></p>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-sm-6" style="width: 40%;" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
-                                <div class="transport-way-item transport-card style-two position-relative text-center">
-                                    <img src="../assets/images/icons/rocket.svg" alt="" class="rocket position-absolute tw-start-full bottom-0 tw-mb--88-px d-lg-block d-none">
-
-                                    <span class="transport-way-item__icon cursor-big tw-w-95-px tw-h-95-px bg-main-600 rounded-circle tw-rounded-bl-0 d-inline-flex justify-content-center align-items-center tw-transition-all tw-duration-300">
-                                        <img src="../assets/images/icons/tranport-way-icon3.svg" alt="">
-                                    </span>
-                                    <div class="transport-way-item__content border border-neutral-50 bg-neutral-50 tw-py-15 tw-px-24-px tw-rounded tw-duration-300">
-                                        <h5 class="tw-mb-6 cursor-big"><?php echo $borders_land[1] ?></h5>
-                                        <p class="text-neutral-1000 cursor-small line-clamp-2"></p>
-                                    </div>
-                                </div>
-                            </div>
-
+                                <?php endforeach; ?>
+                            <?php endif; ?>
                         </div>
                     </div>
                 </div>

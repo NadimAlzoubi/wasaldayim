@@ -102,6 +102,7 @@
 /* Font Family*/
 @import url("https://fonts.googleapis.com/css2?family=Carter+One&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=Pacifico&amp;display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap');
+
 /* ========================= Variable Css Start ======================== */
 :root {
     /* Font Family Variable */
@@ -250,14 +251,47 @@
 
 /* Responsive Text Class */
 .responsive-text {
-    font-size: 1rem; /* حجم افتراضي للشاشات الكبيرة */
+    font-size: 1rem;
 }
+
+.responsive-img {
+    width: 70px;
+}
+
+.responsive-width {
+    width: 85px;
+}
+
+.responsive-height {
+    height: 85px;
+}
+
 
 /* الشاشات الكبيرة جدًا >= 1200px */
 @media (min-width: 1200px) {
     .responsive-text {
         font-size: 1.4rem;
     }
+
+    .responsive-img {
+        width: 70px;
+    }
+
+
+    .responsive-width {
+        width: 85px;
+    }
+
+    .responsive-height {
+        height: 85px;
+    }
+
+    .responsive-row-gap {
+        row-gap: 8rem;
+    }
+
+
+
 }
 
 /* الشاشات الكبيرة >= 992px */
@@ -265,6 +299,23 @@
     .responsive-text {
         font-size: 1.3rem;
     }
+
+    .responsive-img {
+        width: 70px;
+    }
+
+    .responsive-width {
+        width: 75px;
+    }
+
+    .responsive-height {
+        height: 75px;
+    }
+
+    .responsive-row-gap {
+        row-gap: 8rem;
+    }
+
 }
 
 /* الشاشات المتوسطة >= 768px */
@@ -272,6 +323,21 @@
     .responsive-text {
         font-size: 1.2rem;
     }
+
+    .responsive-img {
+        width: 60px;
+    }
+
+    .responsive-width {
+        width: 65px;
+    }
+
+    .responsive-height {
+        height: 65px;
+    }
+
+
+
 }
 
 /* الشاشات الصغيرة >= 576px */
@@ -279,13 +345,43 @@
     .responsive-text {
         font-size: 1rem;
     }
+
+    .responsive-img {
+        width: 50px;
+    }
+
+    .responsive-width {
+        width: 50px;
+    }
+
+    .responsive-height {
+        height: 50px;
+    }
+
+
+
 }
 
 /* الشاشات الصغيرة جدًا < 576px */
 @media (max-width: 575.98px) {
     .responsive-text {
-        font-size: 0.8rem;
+        font-size: 0.9rem;
     }
+
+    .responsive-img {
+        width: 40px;
+    }
+
+    .responsive-width {
+        width: 40px;
+    }
+
+    .responsive-height {
+        height: 40px;
+    }
+
+
+
 }
 
 
@@ -5326,7 +5422,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 /* Placeholder Classes End */
 /* Border Radius Css Start */
 .tw-rounded {
-    border-radius: 0.25rem;
+    border-radius: 1.25rem;
     /* 4px */
 }
 
