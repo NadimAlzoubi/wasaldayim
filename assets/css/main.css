@@ -124,8 +124,8 @@
     --main-s: 86%;
     --main-l: 47%; */
     --main-h: 0;
-    --main-s: 60%;
-    --main-l: 28%;
+    --main-s: 0%;
+    --main-l: 11%;
 
     --main: var(--main-h) var(--main-s) var(--main-l);
     /* Main Two */

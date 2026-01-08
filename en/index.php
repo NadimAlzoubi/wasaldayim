@@ -250,7 +250,7 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
     <!-- magnific -->
     <link rel="stylesheet" href="../assets/css/magnific-popup.css">
     <!-- Main css -->
-    <link rel="stylesheet" href="../assets/css/main.css?v=08012026">
+    <link rel="stylesheet" href="../assets/css/main.css?v=0801202601">
 </head>
 
 <body>
