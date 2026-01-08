@@ -85,265 +85,265 @@
     },
     "meta": {
         "ar": {
-            "title": "وصال دائم لخدمات التخليص الجمركي | الغويفات – أبوظبي",
-            "description": "شركة متخصصة في التخليص الجمركي في منفذ الغويفات وجميع منافذ المملكة العربية السعودية، نقدم حلول استيراد وتصدير موثوقة وسريعة.",
-            "keywords": "تخليص جمركي، منفذ الغويفات، تخليص السعودية، الاستيراد، التصدير، الشحن البري، الخدمات اللوجستية"
+            "title": "وصال دائم للتخليص الجمركي | الغويفات وجميع منافذ السعودية",
+            "description": "وصال دائم شركة متخصصة في التخليص الجمركي البري عبر منفذ الغويفات وجميع المنافذ البرية للمملكة العربية السعودية. نقدّم خدمات استيراد وتصدير سريعة، دقيقة، ومتوافقة مع الأنظمة بخبرة ميدانية موثوقة.",
+            "keywords": "تخليص جمركي الغويفات, مخلص جمركي الغويفات, التخليص الجمركي البري, تخليص جمركي السعودية, استيراد وتصدير السعودية, مخلص جمركي أبوظبي, الشحن البري"
         },
         "en": {
-            "title": "Wasal Dayim Customs Clearance Services | Ghuwaifat – Abu Dhabi",
-            "description": "Professional customs clearance services at Ghuwaifat border and all Saudi Arabian borders, covering import and export operations.",
-            "keywords": "Customs Clearance, Ghuwaifat Border, Saudi Borders, Import, Export, Land Freight, Logistics Services"
+            "title": "Wasal Dayim Customs Clearance | Ghuwaifat & Saudi Land Borders",
+            "description": "Wasal Dayim provides professional land customs clearance services at Ghuwaifat border and across all Saudi land ports. We specialize in import and export clearance with fast processing and full regulatory compliance.",
+            "keywords": "Customs Clearance Ghuwaifat, Saudi Land Border Customs, Land Customs Clearance UAE, Import Export Clearance KSA, Customs Broker Abu Dhabi, Land Freight Customs"
         }
     },
     "hero": {
         "ar": {
-            "company": "وصال دائم لخدمات التخليص الجمركي",
-            "headline": "تخليص جمركي احترافي عبر منفذ الغويفات وجميع منافذ المملكة العربية السعودية",
-            "text": "نقدّم خدمات تخليص جمركي متكاملة للاستيراد والتصدير عبر منفذ الغويفات وجميع المنافذ البرية للمملكة العربية السعودية، بسرعة، دقة، والتزام كامل بالأنظمة.",
-            "cta": "تواصل معنا"
-        },
-        "en": {
-            "company": "WASAL DAYIM Customs Clearance Services",
-            "headline": "Professional customs clearance at Ghuwaifat and all Saudi borders",
-            "text": "We deliver reliable import and export customs clearance services at Ghuwaifat border and across all Saudi land borders with speed, accuracy, and full compliance.",
-            "cta": "Contact Us"
-        }
+        "company": "وصال دائم لخدمات التخليص الجمركي",
+        "headline": "تخليص جمركي احترافي عبر منفذ الغويفات وجميع منافذ المملكة العربية السعودية",
+        "text": "نقدّم خدمات تخليص جمركي متكاملة للاستيراد والتصدير عبر منفذ الغويفات وجميع المنافذ البرية للمملكة العربية السعودية، بسرعة، دقة، والتزام كامل بالأنظمة.",
+        "cta": "تواصل معنا"
     },
-    "about": {
+    "en": {
+        "company": "WASAL DAYIM Customs Clearance Services",
+        "headline": "Professional customs clearance at Ghuwaifat and all Saudi borders",
+        "text": "We deliver reliable import and export customs clearance services at Ghuwaifat border and across all Saudi land borders with speed, accuracy, and full compliance.",
+        "cta": "Contact Us"
+    }
+},
+"about": {
+    "ar": {
+        "title": "من نحن؟",
+        "text": "<b>وصال دائم لخدمات التخليص الجمركي – ذ.م.م – ش.ش.و</b><br /> شركة متخصصة في التخليص الجمركي البري في منفذ الغويفات، وتغطية شاملة لجميع منافذ المملكة العربية السعودية. نُقدّم حلول استيراد وتصدير عملية وموثوقة تقلّل الوقت والتكلفة على عملائنا، مدعومة بفريق محترف وخبرة ميدانية واسعة."
+    },
+    "en": {
+        "title": "Who We Are?",
+        "text": "<b>WASAL DAYIM Customs Clearance Services – L.L.C – S.P.C</b><br /> A specialized land customs clearance company with a primary focus on Ghuwaifat border and full coverage of all Saudi Arabian land borders. We provide efficient import and export solutions supported by strong field experience and a professional team."
+    }
+},
+"services": {
+    "customs_clearance": {
         "ar": {
-            "title": "من نحن؟",
-            "text": "<b>وصال دائم لخدمات التخليص الجمركي – ذ.م.م – ش.ش.و</b><br /> شركة متخصصة في التخليص الجمركي البري في منفذ الغويفات، وتغطية شاملة لجميع منافذ المملكة العربية السعودية. نُقدّم حلول استيراد وتصدير عملية وموثوقة تقلّل الوقت والتكلفة على عملائنا، مدعومة بفريق محترف وخبرة ميدانية واسعة."
-        },
-        "en": {
-            "title": "Who We Are?",
-            "text": "<b>WASAL DAYIM Customs Clearance Services – L.L.C – S.P.C</b><br /> A specialized land customs clearance company with a primary focus on Ghuwaifat border and full coverage of all Saudi Arabian land borders. We provide efficient import and export solutions supported by strong field experience and a professional team."
-        }
-    },
-    "services": {
-        "customs_clearance": {
-            "ar": {
-                "title": "التخليص الجمركي (استيراد وتصدير)",
-                "description": "نُقدّم خدمات تخليص جمركي متكاملة لعمليات الاستيراد والتصدير عبر منفذ الغويفات وجميع المنافذ البرية للمملكة العربية السعودية، مع التزام كامل بالأنظمة وتسريع إجراءات التخليص وتقليل زمن الإفراج.",
-                "items": [
-                    "التخليص الجمركي في منفذ الغويفات (دخول وخروج)",
-                    "التخليص عبر جميع منافذ المملكة العربية السعودية",
-                    "دفع الرسوم الجمركية وضريبة القيمة المضافة",
-                    "إعداد بيانات المقاصة الخليجية (Makassa)",
-                    "إصدار بيانات الشحن البري المربوط (Bonded)",
-                    "إدارة مستندات الاستيراد والتصدير",
-                    "التعامل مع الشحنات الخاصة والحساسة",
-                    "تصنيف البضائع وتحديد رمز HS بدقة",
-                    "مراجعة الفواتير وقوائم التعبئة قبل التقديم الجمركي",
-                    "التنسيق مع الجهات الجمركية لتسريع الإفراج",
-                    "متابعة المعاينة الجمركية وحضور الكشف عند الحاجة",
-                    "معالجة الملاحظات الجمركية وإعادة التقديم",
-                    "تقليل الغرامات والتأخيرات عبر الجاهزية المسبقة",
-                    "تقديم استشارات جمركية قبل الشحن لتفادي المخاطر"
-                ]
-            },
-            "en": {
-                "title": "Customs Clearance (Import & Export)",
-                "description": "We provide comprehensive customs clearance services for import and export operations at Ghuwaifat border and all Saudi land borders, ensuring regulatory compliance, fast processing, and reduced clearance time.",
-                "items": [
-                    "Customs clearance at Ghuwaifat border (inbound & outbound)",
-                    "Clearance across all Saudi land borders",
-                    "Duties and VAT payment services",
-                    "GCC statistical declarations (Makassa)",
-                    "Bonded land shipment declarations",
-                    "Import & export documentation handling",
-                    "Special and sensitive shipment handling",
-                    "Accurate HS code classification",
-                    "Invoice and packing list review prior to customs submission",
-                    "Coordination with customs authorities to accelerate release",
-                    "Inspection follow-up and on-site attendance when required",
-                    "Handling customs remarks and resubmissions",
-                    "Reducing penalties and delays through pre-clearance readiness",
-                    "Pre-shipment customs consulting to mitigate risks"
-                ]
-            }
-        },
-        "documentation": {
-            "ar": {
-                "title": "معالجة الوثائق",
-                "description": "نُدير جميع متطلبات المستندات الرسمية المرتبطة بالشحنات البرية وعمليات الاستيراد والتصدير، مع ضمان أعلى درجات الدقة والامتثال الكامل للأنظمة والجهات التنظيمية.",
-                "items": [
-                    "الحصول على الموافقات الأمنية والتنفيذية",
-                    "شهادات SABER للشحنات المتجهة إلى المملكة العربية السعودية",
-                    "موافقات FANR لعمليات الاستيراد والتصدير",
-                    "نظام ZAD للمواد الغذائية",
-                    "مستندات غرف التجارة والتصديقات الرسمية",
-                    "الشهادات الصحية النباتية",
-                    "دفع ضريبة القيمة المضافة",
-                    "موافقات هيئة تنظيم الاتصالات (TRA)",
-                    "تدقيق المستندات قبل التقديم لتفادي التأخير أو الغرامات",
-                    "مطابقة رموز HS مع نوع البضائع والمستندات",
-                    "متابعة حالة الموافقات مع الجهات المختصة حتى الإصدار النهائي",
-                    "معالجة الملاحظات أو الرفض وإعادة التقديم عند الحاجة",
-                    "تنسيق المستندات مع شركات الشحن والمخلصين المعتمدين",
-                    "أرشفة رقمية للمستندات وسهولة الرجوع إليها",
-                    "تقديم استشارات مسبقة لتحديد المتطلبات النظامية قبل الشحن"
-                ]
-            },
-            "en": {
-                "title": "Documentation Handling",
-                "description": "We manage all official documentation requirements related to land shipments, imports, and exports, ensuring high accuracy and full compliance with regulatory authorities.",
-                "items": [
-                    "Executive and security approvals",
-                    "ESMA certificates",
-                    "SABER certificates for shipments to Saudi Arabia",
-                    "FANR approvals for import and export",
-                    "ZAD system for food products",
-                    "Chamber of Commerce documentation and attestations",
-                    "Phytosanitary certificates",
-                    "Value Added Tax (VAT) payment services",
-                    "Telecommunications Regulatory Authority (TRA) approvals",
-                    "Pre-submission document review to avoid delays or penalties",
-                    "HS code verification and compliance matching",
-                    "Follow-up with authorities until final approval is issued",
-                    "Handling rejections, remarks, and resubmissions when required",
-                    "Coordination with shipping companies and licensed brokers",
-                    "Digital archiving of documents for easy retrieval",
-                    "Pre-shipment consultation to determine regulatory requirements"
-                ]
-            }
-        }
-    },
-    "borders": {
-        "ar": {
-            "land": [
-                "منفذ الغويفات <br /> الإمارات | السعودية",
-                "منفذ البطحاء <br /> السعودية | الإمارات",
-                "منفذ الخفجي <br /> السعودية | الكويت",
-                "منفذ الحديثة <br /> السعودية | الأردن",
-                "منفذ سلوى <br /> السعودية | قطر",
-                "جسر الملك فهد <br /> السعودية | البحرين",
-                "منفذ الربع الخالي <br /> السعودية | عُمان"
-            ],
-            "sea": [
-                ""
-            ],
-            "air": [
-                ""
+            "title": "التخليص الجمركي (استيراد وتصدير)",
+            "description": "نُقدّم خدمات تخليص جمركي متكاملة لعمليات الاستيراد والتصدير عبر منفذ الغويفات وجميع المنافذ البرية للمملكة العربية السعودية، مع التزام كامل بالأنظمة وتسريع إجراءات التخليص وتقليل زمن الإفراج.",
+            "items": [
+                "التخليص الجمركي في منفذ الغويفات (دخول وخروج)",
+                "التخليص عبر جميع منافذ المملكة العربية السعودية",
+                "دفع الرسوم الجمركية وضريبة القيمة المضافة",
+                "إعداد بيانات المقاصة الخليجية (Makassa)",
+                "إصدار بيانات الشحن البري المربوط (Bonded)",
+                "إدارة مستندات الاستيراد والتصدير",
+                "التعامل مع الشحنات الخاصة والحساسة",
+                "تصنيف البضائع وتحديد رمز HS بدقة",
+                "مراجعة الفواتير وقوائم التعبئة قبل التقديم الجمركي",
+                "التنسيق مع الجهات الجمركية لتسريع الإفراج",
+                "متابعة المعاينة الجمركية وحضور الكشف عند الحاجة",
+                "معالجة الملاحظات الجمركية وإعادة التقديم",
+                "تقليل الغرامات والتأخيرات عبر الجاهزية المسبقة",
+                "تقديم استشارات جمركية قبل الشحن لتفادي المخاطر"
             ]
         },
         "en": {
-            "land": [
-                "Ghuwaifat Border <br /> UAE | KSA",
-                "Batha Border <br /> KSA | UAE",
-                "Khafji Border <br /> KSA | Kuwait",
-                "Al Haditha Border <br /> KSA | Jordan",
-                "Salwa Border <br /> KSA | Qatar",
-                "King Fahd Causeway <br /> KSA | Bahrain",
-                "Empty Quarter Border <br /> KSA | Oman"
-            ],
-            "sea": [
-                ""
-            ],
-            "air": [
-                ""
+            "title": "Customs Clearance (Import & Export)",
+            "description": "We provide comprehensive customs clearance services for import and export operations at Ghuwaifat border and all Saudi land borders, ensuring regulatory compliance, fast processing, and reduced clearance time.",
+            "items": [
+                "Customs clearance at Ghuwaifat border (inbound & outbound)",
+                "Clearance across all Saudi land borders",
+                "Duties and VAT payment services",
+                "GCC statistical declarations (Makassa)",
+                "Bonded land shipment declarations",
+                "Import & export documentation handling",
+                "Special and sensitive shipment handling",
+                "Accurate HS code classification",
+                "Invoice and packing list review prior to customs submission",
+                "Coordination with customs authorities to accelerate release",
+                "Inspection follow-up and on-site attendance when required",
+                "Handling customs remarks and resubmissions",
+                "Reducing penalties and delays through pre-clearance readiness",
+                "Pre-shipment customs consulting to mitigate risks"
             ]
         }
     },
-    "why_us": {
-        "ar": [
-            "خبرة عملية قوية في التخليص الجمركي والمنافذ البرية",
-            "فريق محترف يفهم متطلبات السوق والأنظمة المحلية",
-            "سرعة في الإنجاز ودقة في الإجراءات",
-            "حلول مرنة ومخصصة حسب طبيعة نشاط العميل",
-            "التزام كامل بالشفافية والموثوقية"
-        ],
-        "en": [
-            "Strong hands-on experience in customs clearance",
-            "Professional team with deep regulatory knowledge",
-            "Fast, accurate, and compliant processes",
-            "Flexible solutions tailored to your business",
-            "Trusted, transparent, and reliable service"
-        ]
-    },
-    "contact_social": {
+    "documentation": {
         "ar": {
-            "contact_text": "تواصل معنا الآن للحصول على استشارة<br /> وتخليص جمركي سريع وموثوق",
-            "social_text": "تابعنا على منصات التواصل الاجتماعي<br /> لمعرفة آخر المستجدات"
+            "title": "معالجة الوثائق",
+            "description": "نُدير جميع متطلبات المستندات الرسمية المرتبطة بالشحنات البرية وعمليات الاستيراد والتصدير، مع ضمان أعلى درجات الدقة والامتثال الكامل للأنظمة والجهات التنظيمية.",
+            "items": [
+                "الحصول على الموافقات الأمنية والتنفيذية",
+                "شهادات SABER للشحنات المتجهة إلى المملكة العربية السعودية",
+                "موافقات FANR لعمليات الاستيراد والتصدير",
+                "نظام ZAD للمواد الغذائية",
+                "مستندات غرف التجارة والتصديقات الرسمية",
+                "الشهادات الصحية النباتية",
+                "دفع ضريبة القيمة المضافة",
+                "موافقات هيئة تنظيم الاتصالات (TRA)",
+                "تدقيق المستندات قبل التقديم لتفادي التأخير أو الغرامات",
+                "مطابقة رموز HS مع نوع البضائع والمستندات",
+                "متابعة حالة الموافقات مع الجهات المختصة حتى الإصدار النهائي",
+                "معالجة الملاحظات أو الرفض وإعادة التقديم عند الحاجة",
+                "تنسيق المستندات مع شركات الشحن والمخلصين المعتمدين",
+                "أرشفة رقمية للمستندات وسهولة الرجوع إليها",
+                "تقديم استشارات مسبقة لتحديد المتطلبات النظامية قبل الشحن"
+            ]
         },
         "en": {
-            "contact_text": "Contact us now for fast and<br /> reliable customs clearance consultation.",
-            "social_text": "Follow us on social media<br /> for the latest updates."
-        }
-    },
-    "social_media": {
-        "facebook": "https://www.facebook.com/wasaldayim",
-        "twitter": "https://twitter.com/wasaldayim",
-        "linkedin": "https://www.linkedin.com/company/wasal-dayim",
-        "instagram": "https://www.instagram.com/wasaldayim",
-        "youtube": "https://www.youtube.com/wasaldayim",
-        "tiktok": "https://www.tiktok.com/@wasaldayim",
-        "whatsapp": "https://wa.me/+971502573020",
-        "telegram": "https://t.me/wasaldayim",
-        "email": "contact@wasaldayim.com",
-        "phone": "+971502573020",
-        "phone_manager": "+971503295058",
-        "phone_landline": "+97126217178",
-        "gmail": "wasaldayim@gmail.com"
-    },
-    "address": {
-        "ar": "شارع الحظيظ، الغويفات، أبوظبي، الإمارات العربية المتحدة",
-        "en": "Al-Haziz Street, Ghuwaifat, Abu Dhabi, UAE"
-    },
-    "map_link": "https://maps.app.goo.gl/pVKKobEHKpc2Xfbu5",
-    "working_hours": {
-        "ar": "مفتوح على مدار 24 ساعة",
-        "en": "Open 24 hours"
-    },
-    "footer_text": {
-        "ar": "© 2026 وصال دائم لخدمات التخليص الجمركي. جميع الحقوق محفوظة",
-        "en": "© 2026 WASAL DAYIM Customs Clearance Services. All rights reserved"
-    },
-    "privacy_policy": {
-        "ar": "سياسة الخصوصية",
-        "en": "Privacy Policy"
-    },
-    "terms_of_service": {
-        "ar": "شروط الخدمة",
-        "en": "Terms of Service"
-    },
-    "mission": {
-        "ar": "تقديم خدمات تخليص جمركي احترافية وسريعة في منفذ الغويفات وجميع منافذ المملكة، مع التركيز على الجودة، الالتزام، وخدمة العميل.",
-        "en": "To deliver professional and fast customs clearance services at Ghuwaifat and all Saudi borders with a strong focus on quality, compliance, and customer service."
-    },
-    "vision": {
-        "ar": "أن نكون الخيار الأول للتخليص الجمركي البري بين الإمارات والمملكة العربية السعودية.",
-        "en": "To become the first choice for land customs clearance between the UAE and Saudi Arabia."
-    },
-    "core_values": {
-        "integrity": {
-            "title": {
-                "ar": "النزاهة",
-                "en": "Integrity"
-            },
-            "description": {
-                "ar": "نلتزم بالشفافية والمصداقية في جميع تعاملاتنا.",
-                "en": "We commit to transparency and honesty in all our operations."
-            }
-        },
-        "consistency": {
-            "title": {
-                "ar": "الاستمرارية",
-                "en": "Consistency"
-            },
-            "description": {
-                "ar": "نحافظ على مستوى ثابت من الجودة في جميع خدماتنا.",
-                "en": "We maintain consistent quality across all our services."
-            }
-        },
-        "customer_satisfaction": {
-            "title": {
-                "ar": "رضا العملاء",
-                "en": "Customer Satisfaction"
-            },
-            "description": {
-                "ar": "رضا العميل هو أساس نجاحنا واستمراريتنا.",
-                "en": "Customer satisfaction is the foundation of our success."
-            }
+            "title": "Documentation Handling",
+            "description": "We manage all official documentation requirements related to land shipments, imports, and exports, ensuring high accuracy and full compliance with regulatory authorities.",
+            "items": [
+                "Executive and security approvals",
+                "ESMA certificates",
+                "SABER certificates for shipments to Saudi Arabia",
+                "FANR approvals for import and export",
+                "ZAD system for food products",
+                "Chamber of Commerce documentation and attestations",
+                "Phytosanitary certificates",
+                "Value Added Tax (VAT) payment services",
+                "Telecommunications Regulatory Authority (TRA) approvals",
+                "Pre-submission document review to avoid delays or penalties",
+                "HS code verification and compliance matching",
+                "Follow-up with authorities until final approval is issued",
+                "Handling rejections, remarks, and resubmissions when required",
+                "Coordination with shipping companies and licensed brokers",
+                "Digital archiving of documents for easy retrieval",
+                "Pre-shipment consultation to determine regulatory requirements"
+            ]
         }
     }
+},
+"borders": {
+    "ar": {
+        "land": [
+            "منفذ الغويفات <br /> الإمارات | السعودية",
+            "منفذ البطحاء <br /> السعودية | الإمارات",
+            "منفذ الخفجي <br /> السعودية | الكويت",
+            "منفذ الحديثة <br /> السعودية | الأردن",
+            "منفذ سلوى <br /> السعودية | قطر",
+            "جسر الملك فهد <br /> السعودية | البحرين",
+            "منفذ الربع الخالي <br /> السعودية | عُمان"
+        ],
+        "sea": [
+            ""
+        ],
+        "air": [
+            ""
+        ]
+    },
+    "en": {
+        "land": [
+            "Ghuwaifat Border <br /> UAE | KSA",
+            "Batha Border <br /> KSA | UAE",
+            "Khafji Border <br /> KSA | Kuwait",
+            "Al Haditha Border <br /> KSA | Jordan",
+            "Salwa Border <br /> KSA | Qatar",
+            "King Fahd Causeway <br /> KSA | Bahrain",
+            "Empty Quarter Border <br /> KSA | Oman"
+        ],
+        "sea": [
+            ""
+        ],
+        "air": [
+            ""
+        ]
+    }
+},
+"why_us": {
+    "ar": [
+        "خبرة عملية قوية في التخليص الجمركي والمنافذ البرية",
+        "فريق محترف يفهم متطلبات السوق والأنظمة المحلية",
+        "سرعة في الإنجاز ودقة في الإجراءات",
+        "حلول مرنة ومخصصة حسب طبيعة نشاط العميل",
+        "التزام كامل بالشفافية والموثوقية"
+    ],
+    "en": [
+        "Strong hands-on experience in customs clearance",
+        "Professional team with deep regulatory knowledge",
+        "Fast, accurate, and compliant processes",
+        "Flexible solutions tailored to your business",
+        "Trusted, transparent, and reliable service"
+    ]
+},
+"contact_social": {
+    "ar": {
+        "contact_text": "تواصل معنا الآن للحصول على استشارة<br /> وتخليص جمركي سريع وموثوق",
+        "social_text": "تابعنا على منصات التواصل الاجتماعي<br /> لمعرفة آخر المستجدات"
+    },
+    "en": {
+        "contact_text": "Contact us now for fast and<br /> reliable customs clearance consultation.",
+        "social_text": "Follow us on social media<br /> for the latest updates."
+    }
+},
+"social_media": {
+    "facebook": "https://www.facebook.com/wasaldayim",
+    "twitter": "https://twitter.com/wasaldayim",
+    "linkedin": "https://www.linkedin.com/company/wasal-dayim",
+    "instagram": "https://www.instagram.com/wasaldayim",
+    "youtube": "https://www.youtube.com/wasaldayim",
+    "tiktok": "https://www.tiktok.com/@wasaldayim",
+    "whatsapp": "https://wa.me/+971502573020",
+    "telegram": "https://t.me/wasaldayim",
+    "email": "contact@wasaldayim.com",
+    "phone": "+971502573020",
+    "phone_manager": "+971503295058",
+    "phone_landline": "+97126217178",
+    "gmail": "wasaldayim@gmail.com"
+},
+"address": {
+    "ar": "شارع الحظيظ، الغويفات، أبوظبي، الإمارات العربية المتحدة",
+    "en": "Al-Haziz Street, Ghuwaifat, Abu Dhabi, UAE"
+},
+"map_link": "https://maps.app.goo.gl/pVKKobEHKpc2Xfbu5",
+"working_hours": {
+    "ar": "مفتوح على مدار 24 ساعة",
+    "en": "Open 24 hours"
+},
+"footer_text": {
+    "ar": "© 2026 وصال دائم لخدمات التخليص الجمركي. جميع الحقوق محفوظة",
+    "en": "© 2026 WASAL DAYIM Customs Clearance Services. All rights reserved"
+},
+"privacy_policy": {
+    "ar": "سياسة الخصوصية",
+    "en": "Privacy Policy"
+},
+"terms_of_service": {
+    "ar": "شروط الخدمة",
+    "en": "Terms of Service"
+},
+"mission": {
+    "ar": "تقديم خدمات تخليص جمركي احترافية وسريعة في منفذ الغويفات وجميع منافذ المملكة، مع التركيز على الجودة، الالتزام، وخدمة العميل.",
+    "en": "To deliver professional and fast customs clearance services at Ghuwaifat and all Saudi borders with a strong focus on quality, compliance, and customer service."
+},
+"vision": {
+    "ar": "أن نكون الخيار الأول للتخليص الجمركي البري بين الإمارات والمملكة العربية السعودية.",
+    "en": "To become the first choice for land customs clearance between the UAE and Saudi Arabia."
+},
+"core_values": {
+    "integrity": {
+        "title": {
+            "ar": "النزاهة",
+            "en": "Integrity"
+        },
+        "description": {
+            "ar": "نلتزم بالشفافية والمصداقية في جميع تعاملاتنا.",
+            "en": "We commit to transparency and honesty in all our operations."
+        }
+    },
+    "consistency": {
+        "title": {
+            "ar": "الاستمرارية",
+            "en": "Consistency"
+        },
+        "description": {
+            "ar": "نحافظ على مستوى ثابت من الجودة في جميع خدماتنا.",
+            "en": "We maintain consistent quality across all our services."
+        }
+    },
+    "customer_satisfaction": {
+        "title": {
+            "ar": "رضا العملاء",
+            "en": "Customer Satisfaction"
+        },
+        "description": {
+            "ar": "رضا العميل هو أساس نجاحنا واستمراريتنا.",
+            "en": "Customer satisfaction is the foundation of our success."
+        }
+    }
+}
 }

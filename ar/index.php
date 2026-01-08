@@ -204,24 +204,40 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
 <!DOCTYPE html>
 <html lang="ar">
 
-
 <head>
+    <!-- Basic -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="<?php echo $description ?>">
-    <meta name="keywords" content="<?php echo $keywords ?>">
-    <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <!-- SEO Meta -->
+    <title><?php echo $title; ?></title>
+    <meta name="description" content="<?php echo $description; ?>">
+    <meta name="keywords" content="<?php echo $keywords; ?>">
+    <meta name="robots" content="index, follow">
+    <meta name="content-language" content="ar">
 
-    <!-- hreflang tags -->
-    <link rel="alternate" hreflang="ar" href="https://wasaldayim.com/ar/index.php" />
-    <link rel="alternate" hreflang="en" href="https://wasaldayim.com/en/index.php" />
-    <link rel="alternate" hreflang="x-default" href="https://wasaldayim.com/index.php" />
+    <!-- Canonical -->
+    <link rel="canonical" href="https://wasaldayim.com/ar/">
 
+    <!-- hreflang -->
+    <link rel="alternate" hreflang="ar" href="https://wasaldayim.com/ar/">
+    <link rel="alternate" hreflang="en" href="https://wasaldayim.com/en/">
+    <link rel="alternate" hreflang="x-default" href="https://wasaldayim.com/">
 
-    <!-- Title -->
-    <title><?php echo $title ?></title>
+    <meta name="geo.region" content="AE-AZ">
+    <meta name="geo.placename" content="منفذ الغويفات، أبوظبي">
+    <meta name="geo.position" content="22.7386;53.7476">
+    <meta name="ICBM" content="22.7386, 53.7476">
+
+    <!-- Open Graph (Optional but recommended) -->
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ar_AR">
+    <meta property="og:title" content="<?php echo $title; ?>">
+    <meta property="og:description" content="<?php echo $description; ?>">
+    <meta property="og:url" content="https://wasaldayim.com/ar/">
+    <meta property="og:site_name" content="Wasal Dayim">
+
     <!-- Favicon -->
     <link rel="shortcut icon" href="../assets/images/logo/logo4.png">
     <!-- Bootstrap -->

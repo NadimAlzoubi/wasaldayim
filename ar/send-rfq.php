@@ -97,7 +97,7 @@ foreach ($headers as $key => $value) {
 // Send mail
 // ===============================
 $sent = mail(
-    'nadim.alzoubi.99@gmail.com',
+    'contact@wasaldayim.com',
     'New RFQ Submission',
     $message,
     $headersString
