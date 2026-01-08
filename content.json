@@ -38,7 +38,7 @@
             "rfq_shipment_type": "نوع الشحنة",
             "rfq_origin": "بلد / منفذ الإرسال",
             "rfq_destination": "بلد / منفذ الوصول",
-            "rfq_notes": "ملاحظات إضافية",
+            "rfq_notes": "تفاصيل إضافية",
             "rfq_submit": "إرسال الطلب"
         },
         "en": {
@@ -79,7 +79,7 @@
             "rfq_shipment_type": "Shipment Type",
             "rfq_origin": "Origin Country / Border",
             "rfq_destination": "Destination Country / Border",
-            "rfq_notes": "Additional Notes",
+            "rfq_notes": "Additional Details",
             "rfq_submit": "Submit Request"
         }
     },
@@ -243,6 +243,22 @@
                 ""
             ]
         }
+    },
+    "why_us": {
+        "ar": [
+            "خبرة عملية قوية في التخليص الجمركي والمنافذ البرية",
+            "فريق محترف يفهم متطلبات السوق والأنظمة المحلية",
+            "سرعة في الإنجاز ودقة في الإجراءات",
+            "حلول مرنة ومخصصة حسب طبيعة نشاط العميل",
+            "التزام كامل بالشفافية والموثوقية"
+        ],
+        "en": [
+            "Strong hands-on experience in customs clearance",
+            "Professional team with deep regulatory knowledge",
+            "Fast, accurate, and compliant processes",
+            "Flexible solutions tailored to your business",
+            "Trusted, transparent, and reliable service"
+        ]
     },
     "contact_social": {
         "ar": {

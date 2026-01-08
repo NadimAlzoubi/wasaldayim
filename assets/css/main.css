@@ -266,6 +266,19 @@
     height: 85px;
 }
 
+.responsive-logo {
+    width: 80px;
+}
+
+.request-quote-inner .quote-wrap {
+    margin-inline-start: 0;
+    border-radius: 1rem;
+    padding: 1rem;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
+
 
 /* الشاشات الكبيرة جدًا >= 1200px */
 @media (min-width: 1200px) {
@@ -276,7 +289,6 @@
     .responsive-img {
         width: 70px;
     }
-
 
     .responsive-width {
         width: 85px;
@@ -289,8 +301,6 @@
     .responsive-row-gap {
         row-gap: 8rem;
     }
-
-
 
 }
 
@@ -316,6 +326,10 @@
         row-gap: 8rem;
     }
 
+    .request-quote-inner .quote-wrap {
+        margin-block-start: 30px;
+    }
+
 }
 
 /* الشاشات المتوسطة >= 768px */
@@ -336,7 +350,13 @@
         height: 65px;
     }
 
+    .responsive-logo {
+        width: 60px;
+    }
 
+    .request-quote-inner .quote-wrap {
+        margin-block-start: 30px;
+    }
 
 }
 
@@ -358,7 +378,13 @@
         height: 50px;
     }
 
+    .responsive-logo {
+        width: 55px;
+    }
 
+    .request-quote-inner .quote-wrap {
+        margin-block-start: 30px;
+    }
 
 }
 
@@ -380,7 +406,13 @@
         height: 40px;
     }
 
+    .responsive-logo {
+        width: 50px;
+    }
 
+    .request-quote-inner .quote-wrap {
+        margin-block-start: 30px;
+    }
 
 }
 
@@ -9122,6 +9154,11 @@ only screen and (min-width: 768px) and (max-width: 991px),
     }
 }
 
+.request-quote-inner {
+    border-radius: 2rem;
+    padding: 4rem;
+}
+
 .request-quote-inner .nav-pills {
     background: #161922;
 }
@@ -9201,10 +9238,6 @@ only screen and (min-width: 768px) and (max-width: 991px),
     }
 }
 
-.request-quote-inner .quote-wrap {
-    margin-inline-start: 0;
-    margin-block-start: 30px;
-}
 
 .form-check.single-check-wrap {
     padding-inline-start: 0;
