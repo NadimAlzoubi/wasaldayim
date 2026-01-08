@@ -965,7 +965,7 @@ $whatsapp_direct_text = $contact_whatsapp_direct;
 
                 <div class="request-quote-area pb-120 data-aos=" fade-up">
                     <div class="request-quote-inner bg-white common-shadow-eleven">
-                        <form method="post" action="../send-rfq.php">
+                        <form method="post" action="./send-rfq.php">
                             <div class="row">
                                 <!-- ===== Form Section ===== -->
                                 <div class="col-lg-12">
