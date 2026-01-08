@@ -82,7 +82,7 @@ MAIL;
 // Email headers (anti-injection)
 // ===============================
 $headers = [
-    'From' => 'RFQ Form <no-reply@wasaldayim.com>',
+    'From' => 'RFQ Form <contact@wasaldayim.com>',
     'Reply-To' => $email,
     'Content-Type' => 'text/plain; charset=UTF-8'
 ];
